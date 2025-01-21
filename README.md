@@ -1,3 +1,4 @@
 # amigo_secreto
 App para que usuarios ingresen lista de amigos y realice un sorteo.
-![image](https://github.com/user-attachments/assets/673ace16-067f-4dbd-8a61-4ab556448240)
+
+![challenge1](https://github.com/user-attachments/assets/8dcbc4a3-5c70-47cc-b2c7-02ee6b6a885f)
