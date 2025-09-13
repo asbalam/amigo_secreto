@@ -1,6 +1,9 @@
-##code
+# Ejemplos de SQL en Markdown
 
-sql ´´´´
-
-selectr * from employes
-´´´´
+## SELECT
+```sql
+-- Seleccionar todos los usuarios activos
+SELECT id, nombre, email
+FROM usuarios
+WHERE estado = 'activo'
+ORDER BY nombre ASC;
